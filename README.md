@@ -1,0 +1,2 @@
+# Multi-Process-Robot-Coordination-Project-in-C-on-Linux-using-Raspberry-Pi-
+This project simulates a Mobile Robot System where multiple robots navigate independently across a 2D field while avoiding collisions and coordinating movements. Developed in C for a Linux environment (Raspberry Pi or desktop), the simulation uses process-based parallelism, shared memory, and semaphores for synchronization between robots.
