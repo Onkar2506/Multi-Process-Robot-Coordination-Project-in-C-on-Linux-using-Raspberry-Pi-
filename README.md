@@ -22,4 +22,5 @@ Designed to run efficiently on **Raspberry Pi** with a **Linux** OS.
 
 ## 📸 Demo (Terminal Output)
 
+![IMG_20250428_143123578_HDR](https://github.com/user-attachments/assets/0b08ade2-e446-4d36-b857-f6f6e2e2ecf5)
 
